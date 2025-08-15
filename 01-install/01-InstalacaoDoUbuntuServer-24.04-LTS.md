@@ -1,16 +1,9 @@
-Autor: Robson Vaamonde<br>
-Procedimentos em TI: http://procedimentosemti.com.br<br>
-Bora para Prática: http://boraparapratica.com.br<br>
-Robson Vaamonde: http://vaamonde.com.br<br>
-Facebook Procedimentos em TI: https://www.facebook.com/ProcedimentosEmTi<br>
-Facebook Bora para Prática: https://www.facebook.com/BoraParaPratica<br>
-Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
-YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
-LinkedIn Robson Vaamonde: https://www.linkedin.com/in/robson-vaamonde-0b029028/<br>
-Github Procedimentos em TI: https://github.com/vaamonde<br>
-Data de criação: 08/08/2024<br>
-Data de atualização: 04/04/2025<br>
-Versão: 0.05<br>
+Autor: André Lima<br>
+Instagram André Lima: https://www.instagram.com/awsdelima<br>
+LinkedIn André Lima: linkedin.com/in/andré-lima-044548194<br>
+Github Professor André Lima: https://github.com/professorandrelima/ubuntu-2024
+Data de criação: 19/08/2024<br>
+Data de atualização: 15/08/2025<br>
 Testado e homologado no GNU/Linux Ubuntu Server 24.04.x LTS
 
 Release Ubuntu Server 24.04: https://fridge.ubuntu.com/2024/04/25/ubuntu-24-04-lts-noble-numbat-released/
