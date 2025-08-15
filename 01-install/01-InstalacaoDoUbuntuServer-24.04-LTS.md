@@ -35,9 +35,6 @@ Conteúdo estudado nessa instalação:<br>
 
 **O QUE É E PARA QUE SERVER O UBUNTU SERVER MINIMAL:** O Ubuntu Server Minimal é uma versão enxuta do Ubuntu Server, projetada para oferecer uma instalação mais leve e essencial, sem pacotes e serviços adicionais que podem não ser necessários para todos os usuários. Ele é ideal para quem deseja uma base limpa e personalizada, instalando apenas os componentes essenciais para o funcionamento do servidor.
 
-[![Instalação Ubuntu Server](http://img.youtube.com/vi/p4f6a_-yM_8/0.jpg)](https://www.youtube.com/watch?v=p4f6a_-yM_8 "Instalação Ubuntu Server")
-
-Link da vídeo aula: https://www.youtube.com/watch?v=p4f6a_-yM_8
 
 ## 01_ Download da ISO do Ubuntu Server 24.04.x LTS
 
